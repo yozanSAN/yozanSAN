@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Full-Stack Software Engineer | Specialized in React/Next.js & Spring Boot Eco-systems</h3>
+<h3 align="center">Full-Stack Software Engineer | React, Next.js & Spring Boot</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm" />
