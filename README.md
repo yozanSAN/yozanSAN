@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayoub;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Spring+Boot" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ayoub </h1>
 
 <h3 align="center">Building scalable, secure web applications with modern frontend & robust Java backends</h3>
 
