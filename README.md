@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayoub01&label=Profile+Views&color=6EE7F7&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yozanSAN&label=Profile+Views&color=6EE7F7&style=flat-square" alt="profile views" />
   <a href="https://am-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-6EE7F7?style=flat-square&logo=vercel" alt="Portfolio" /></a>
   <a href="mailto:ayoubpro183@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -85,13 +85,13 @@ My sweet spot is the intersection of **thoughtful frontend UX** and **solid back
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoub01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yozanSAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 ### 💬 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozanSAN&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -128,7 +128,7 @@ My sweet spot is the intersection of **thoughtful frontend UX** and **solid back
   <a href="https://dev.to/yozansan">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/ayoub01">
+  <a href="https://leetcode.com/yozanSAN">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:ayoubpro183@gmail.com">
