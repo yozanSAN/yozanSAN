@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack Software Engineer with 2–4 years of experience crafting end-to-end web applications — from pixel-perfect React interfaces to secure, well-architected Spring Boot APIs. I care deeply about writing maintainable code that delivers real business value, not just code that runs.
+Aspiring Full-Stack Software Engineer building secure and scalable web applications with React and Spring Boot.
 
 My sweet spot is the intersection of **thoughtful frontend UX** and **solid backend security** — whether that's implementing JWT authentication pipelines, designing role-based access systems, or building component libraries that scale cleanly across a product.
 
@@ -91,17 +91,7 @@ My sweet spot is the intersection of **thoughtful frontend UX** and **solid back
 ### 💬 Most Used Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayoub01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -119,7 +109,7 @@ My sweet spot is the intersection of **thoughtful frontend UX** and **solid back
 
 ## ⚡ Fun Facts
 
-- ☕ Coffee is my primary runtime dependency
+- 📚 Currently learning system design and scalable backend architecture
 - ⚡ I enjoy algorithm challenges — LeetCode is my gym
 - 🎮 Gaming enthusiast — the best UI research is playing well-designed games
 - 🏗️ I believe the best architecture is the one your future self can still understand
